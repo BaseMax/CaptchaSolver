@@ -1009,3 +1009,7 @@ A tiny program to solve the thousand captcha image for testing the quality of th
 | ![captcha](captcha/999.jpg) | 2441 |
 | ![captcha](captcha/1000.jpg) | addO |
 
+
+## References
+
+- https://pypi.org/project/pytesseract/
