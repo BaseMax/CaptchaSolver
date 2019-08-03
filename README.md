@@ -1,8 +1,12 @@
 # OCR Captcha Solver
 
+A tiny program to solve the thousand captcha image for testing the quality of the OCR. (Optical character recognition)
+
 ## Optical character recognition
 
-A tiny program to solve the thousand captcha image for testing the quality of the OCR. (Optical character recognition)
+![OCR Captcha Solver - Max Base](screenshot1.png)
+
+![OCR Captcha Solver - Max Base](screenshot2.png)
 
 ### Testing
 
