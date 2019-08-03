@@ -853,3 +853,121 @@ A tiny program to solve the thousand captcha image for testing the quality of th
 | ![captcha](captcha/843.jpg) | 1e5b |
 | ![captcha](captcha/844.jpg) | ai65 |
 | ![captcha](captcha/845.jpg) | 686a |
+| ![captcha](captcha/846.jpg) | 05e8 |
+| ![captcha](captcha/847.jpg) | d233 |
+| ![captcha](captcha/848.jpg) | rere WA |
+| ![captcha](captcha/849.jpg) | a75c |
+| ![captcha](captcha/850.jpg) | c8e8 |
+| ![captcha](captcha/851.jpg) | 3d29 |
+| ![captcha](captcha/852.jpg) | 89e0 |
+| ![captcha](captcha/853.jpg) | a228 |
+| ![captcha](captcha/854.jpg) | deb3 |
+| ![captcha](captcha/855.jpg) | ry h eal |
+| ![captcha](captcha/856.jpg) | var) |
+| ![captcha](captcha/857.jpg) | 2739 |
+| ![captcha](captcha/858.jpg) | 5d74 |
+| ![captcha](captcha/859.jpg) | (ohomee) |
+| ![captcha](captcha/860.jpg) | 11b3 |
+| ![captcha](captcha/861.jpg) | 33a0 |
+| ![captcha](captcha/862.jpg) | 99a9 |
+| ![captcha](captcha/863.jpg) | 4361 |
+| ![captcha](captcha/864.jpg) | 2295 |
+| ![captcha](captcha/865.jpg) | d732 |
+| ![captcha](captcha/866.jpg) | cOb6 |
+| ![captcha](captcha/867.jpg) | (oF ho) |
+| ![captcha](captcha/868.jpg) | 4dee |
+| ![captcha](captcha/869.jpg) | 449a |
+| ![captcha](captcha/870.jpg) | 468a |
+| ![captcha](captcha/871.jpg) | bal4 |
+| ![captcha](captcha/872.jpg) | ion WA |
+| ![captcha](captcha/873.jpg) | b6d6 |
+| ![captcha](captcha/874.jpg) | b7f2 |
+| ![captcha](captcha/875.jpg) | nie |
+| ![captcha](captcha/876.jpg) | Aor |
+| ![captcha](captcha/877.jpg) | 9914 |
+| ![captcha](captcha/878.jpg) | 5ff0 |
+| ![captcha](captcha/879.jpg) | cc52 |
+| ![captcha](captcha/880.jpg) | iikewA |
+| ![captcha](captcha/881.jpg) | Obf4 |
+| ![captcha](captcha/882.jpg) | ed46 |
+| ![captcha](captcha/883.jpg) | fi otstas |
+| ![captcha](captcha/884.jpg) | pace! |
+| ![captcha](captcha/885.jpg) | crn |
+| ![captcha](captcha/886.jpg) | uel a |
+| ![captcha](captcha/887.jpg) | 5775 |
+| ![captcha](captcha/888.jpg) | 3833 |
+| ![captcha](captcha/889.jpg) | ccf1 |
+| ![captcha](captcha/890.jpg) | 67a8 |
+| ![captcha](captcha/891.jpg) | 445a |
+| ![captcha](captcha/892.jpg) | 370e |
+| ![captcha](captcha/893.jpg) | le)oul |
+| ![captcha](captcha/894.jpg) | oxelil |
+| ![captcha](captcha/895.jpg) | 7ce6 |
+| ![captcha](captcha/896.jpg) | d4e0 |
+| ![captcha](captcha/897.jpg) | a2aa |
+| ![captcha](captcha/898.jpg) | 5d6a |
+| ![captcha](captcha/899.jpg) | 624e |
+| ![captcha](captcha/900.jpg) | 7ei5 |
+| ![captcha](captcha/901.jpg) | deOe |
+| ![captcha](captcha/902.jpg) | Weal |
+| ![captcha](captcha/903.jpg) | 2800 |
+| ![captcha](captcha/904.jpg) | i nole=) |
+| ![captcha](captcha/905.jpg) | 7ac2 |
+| ![captcha](captcha/906.jpg) | cd75 |
+| ![captcha](captcha/907.jpg) | 4e22 |
+| ![captcha](captcha/908.jpg) | fort) |
+| ![captcha](captcha/909.jpg) | 5dda |
+| ![captcha](captcha/910.jpg) | d6d8 |
+| ![captcha](captcha/911.jpg) | (on ie}) |
+| ![captcha](captcha/912.jpg) | el ey |
+| ![captcha](captcha/913.jpg) | clehr-) |
+| ![captcha](captcha/914.jpg) | Pew |
+| ![captcha](captcha/915.jpg) | 90ab |
+| ![captcha](captcha/916.jpg) | (isle) |
+| ![captcha](captcha/917.jpg) | ircyas] |
+| ![captcha](captcha/918.jpg) | 32aa |
+| ![captcha](captcha/919.jpg) | 6e33 |
+| ![captcha](captcha/920.jpg) | 4f88 |
+| ![captcha](captcha/921.jpg) | 1f56 |
+| ![captcha](captcha/922.jpg) | bd16 |
+| ![captcha](captcha/923.jpg) | e94a |
+| ![captcha](captcha/924.jpg) | 5930 |
+| ![captcha](captcha/925.jpg) | 5812 |
+| ![captcha](captcha/926.jpg) | ad9e |
+| ![captcha](captcha/927.jpg) | c280 |
+| ![captcha](captcha/928.jpg) | setts |
+| ![captcha](captcha/929.jpg) | e873 |
+| ![captcha](captcha/930.jpg) | e868 |
+| ![captcha](captcha/931.jpg) | chev fe) |
+| ![captcha](captcha/932.jpg) | 2773 |
+| ![captcha](captcha/933.jpg) | df90 |
+| ![captcha](captcha/934.jpg) | a359 |
+| ![captcha](captcha/935.jpg) | g90e |
+| ![captcha](captcha/936.jpg) | a306 |
+| ![captcha](captcha/937.jpg) | 69cd |
+| ![captcha](captcha/938.jpg) | 990e |
+| ![captcha](captcha/939.jpg) | Pelee |
+| ![captcha](captcha/940.jpg) | Aa |
+| ![captcha](captcha/941.jpg) | 9c57 |
+| ![captcha](captcha/942.jpg) | im eK= |
+| ![captcha](captcha/943.jpg) | 3dc4 |
+| ![captcha](captcha/944.jpg) | eb08 |
+| ![captcha](captcha/945.jpg) | b057 |
+| ![captcha](captcha/946.jpg) | ones) |
+| ![captcha](captcha/947.jpg) | 85ec |
+| ![captcha](captcha/948.jpg) | 189d |
+| ![captcha](captcha/949.jpg) | 5703 |
+| ![captcha](captcha/950.jpg) | a7c4 |
+| ![captcha](captcha/951.jpg) | d303 |
+| ![captcha](captcha/952.jpg) | 4c65 |
+| ![captcha](captcha/953.jpg) | e4ce |
+| ![captcha](captcha/954.jpg) | (ere) is) |
+| ![captcha](captcha/955.jpg) | 8a73 |
+| ![captcha](captcha/956.jpg) | Noli |
+| ![captcha](captcha/957.jpg) | b829 |
+| ![captcha](captcha/958.jpg) | aw |
+| ![captcha](captcha/959.jpg) | ea89 |
+| ![captcha](captcha/960.jpg) | rol =re RE |
+| ![captcha](captcha/961.jpg) | sme) |
+| ![captcha](captcha/962.jpg) | 0918 |
+| ![captcha](captcha/963.jpg) | 840f |
